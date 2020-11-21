@@ -55,4 +55,16 @@ module.exports = {
     }
     return MEMOIZED.FlatList;
   },
+  get SectionList() {
+    if (!MEMOIZED.SectionList) {
+      const ScrollView = this.ScrollView;
+      MEMOIZED.SectionList = React.forwardRef((props, ref) => (
+        <ReactNative.SectionList
+          ref={ref}
+          {...props}
+          renderScrollComponent={scrollProps => <ScrollView {...scrollProps} />}
+        />
+      ));
+    }
+  },
 };
