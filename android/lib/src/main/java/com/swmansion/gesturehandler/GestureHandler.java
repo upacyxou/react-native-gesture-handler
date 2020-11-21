@@ -1,4 +1,4 @@
-package com.upacyxou.gesturehandler;
+package com.swmansion.gesture handler;
 
 import android.view.MotionEvent;
 import android.view.View;

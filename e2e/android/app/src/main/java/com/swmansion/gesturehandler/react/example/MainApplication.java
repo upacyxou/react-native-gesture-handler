@@ -1,14 +1,14 @@
-package com.upacyxou.gesturehandler.react.example;
+package com.swmansion.gesture handler.react.example;
 
 import android.app.Application;
 
-import com.upacyxou.gesturehandler.react.example.BuildConfig;
+import com.swmansion.gesture handler.react.example.BuildConfig;
 import com.facebook.react.ReactApplication;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
-import com.upacyxou.gesturehandler.react.RNGestureHandlerPackage;
+import com.swmansion.gesture handler.react.RNGestureHandlerPackage;
 
 import java.util.Arrays;
 import java.util.List;

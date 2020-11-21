@@ -1,4 +1,4 @@
-package com.upacyxou.gesturehandler.react;
+package com.swmansion.gesture handler.react;
 
 import com.facebook.react.common.MapBuilder;
 import com.facebook.react.module.annotations.ReactModule;

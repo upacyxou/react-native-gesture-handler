@@ -1,9 +1,9 @@
-<com.upacyxou.gesturehandler.GestureHandlerViewWrapper
+<com.swmansion.gesture handler.GestureHandlerViewWrapper
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.upacyxou.gesturehandler.example.MainActivity"
+    tools:context="com.swmansion.gesture handler.example.MainActivity"
     android:id="@+id/wrapper">
 
     <ScrollView
@@ -48,4 +48,4 @@
         </LinearLayout>
     </ScrollView>
 
-</com.upacyxou.gesturehandler.GestureHandlerViewWrapper>
+</com.swmansion.gesture handler.GestureHandlerViewWrapper>

@@ -1,4 +1,4 @@
-package com.upacyxou.gesturehandler.example;
+package com.swmansion.gesture handler.example;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -10,18 +10,18 @@ import android.widget.SeekBar;
 import android.widget.Switch;
 import android.widget.Toast;
 
-import com.upacyxou.gesturehandler.BaseGestureHandlerInteractionController;
-import com.upacyxou.gesturehandler.GestureHandler;
-import com.upacyxou.gesturehandler.GestureHandlerInteractionController;
-import com.upacyxou.gesturehandler.GestureHandlerRegistryImpl;
-import com.upacyxou.gesturehandler.GestureHandlerViewWrapper;
-import com.upacyxou.gesturehandler.LongPressGestureHandler;
-import com.upacyxou.gesturehandler.NativeViewGestureHandler;
-import com.upacyxou.gesturehandler.OnTouchEventListener;
-import com.upacyxou.gesturehandler.PanGestureHandler;
-import com.upacyxou.gesturehandler.PinchGestureHandler;
-import com.upacyxou.gesturehandler.RotationGestureHandler;
-import com.upacyxou.gesturehandler.TapGestureHandler;
+import com.swmansion.gesture handler.BaseGestureHandlerInteractionController;
+import com.swmansion.gesture handler.GestureHandler;
+import com.swmansion.gesture handler.GestureHandlerInteractionController;
+import com.swmansion.gesture handler.GestureHandlerRegistryImpl;
+import com.swmansion.gesture handler.GestureHandlerViewWrapper;
+import com.swmansion.gesture handler.LongPressGestureHandler;
+import com.swmansion.gesture handler.NativeViewGestureHandler;
+import com.swmansion.gesture handler.OnTouchEventListener;
+import com.swmansion.gesture handler.PanGestureHandler;
+import com.swmansion.gesture handler.PinchGestureHandler;
+import com.swmansion.gesture handler.RotationGestureHandler;
+import com.swmansion.gesture handler.TapGestureHandler;
 
 public class MainActivity extends AppCompatActivity {
 

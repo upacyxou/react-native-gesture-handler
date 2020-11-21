@@ -1,7 +1,7 @@
-package com.upacyxou.gesturehandler.react;
+package com.swmansion.gesture handler.react;
 
 import com.facebook.react.bridge.WritableMap;
-import com.upacyxou.gesturehandler.GestureHandler;
+import com.swmansion.gesture handler.GestureHandler;
 
 public interface RNGestureHandlerEventDataExtractor<T extends GestureHandler> {
   void extractEventData(T handler, WritableMap eventData);

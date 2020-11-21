@@ -1,4 +1,4 @@
-package com.upacyxou.gesturehandler.react;
+package com.swmansion.gesture handler.react;
 
 import android.os.Build;
 import android.view.View;
@@ -7,8 +7,8 @@ import android.view.ViewGroup;
 import com.facebook.react.uimanager.PointerEvents;
 import com.facebook.react.uimanager.ReactPointerEventsView;
 import com.facebook.react.views.view.ReactViewGroup;
-import com.upacyxou.gesturehandler.PointerEventsConfig;
-import com.upacyxou.gesturehandler.ViewConfigurationHelper;
+import com.swmansion.gesture handler.PointerEventsConfig;
+import com.swmansion.gesture handler.ViewConfigurationHelper;
 
 public class RNViewConfigurationHelper implements ViewConfigurationHelper {
 

@@ -1,4 +1,4 @@
-package com.upacyxou.gesturehandler.react;
+package com.swmansion.gesture handler.react;
 
 import androidx.core.util.Pools;
 
@@ -6,7 +6,7 @@ import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.uimanager.events.Event;
 import com.facebook.react.uimanager.events.RCTEventEmitter;
-import com.upacyxou.gesturehandler.GestureHandler;
+import com.swmansion.gesture handler.GestureHandler;
 
 import androidx.annotation.Nullable;
 
