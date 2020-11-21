@@ -1,4 +1,4 @@
-package com.swmansion.gesturehandler;
+package com.upacyxou.gesturehandler;
 
 public abstract class BaseGestureHandlerInteractionController
         implements GestureHandlerInteractionController {

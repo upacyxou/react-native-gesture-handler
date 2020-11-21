@@ -1,4 +1,4 @@
-package com.swmansion.gesturehandler.react;
+package com.upacyxou.gesturehandler.react;
 
 import android.util.Log;
 import android.content.Context;

@@ -1,11 +1,11 @@
-package com.swmansion.gesturehandler.react;
+package com.upacyxou.gesturehandler.react;
 
 import android.util.SparseArray;
 
 import com.facebook.react.bridge.ReadableArray;
 import com.facebook.react.bridge.ReadableMap;
-import com.swmansion.gesturehandler.GestureHandler;
-import com.swmansion.gesturehandler.GestureHandlerInteractionController;
+import com.upacyxou.gesturehandler.GestureHandler;
+import com.upacyxou.gesturehandler.GestureHandlerInteractionController;
 
 public class RNGestureHandlerInteractionManager implements GestureHandlerInteractionController {
 
