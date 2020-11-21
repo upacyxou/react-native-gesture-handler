@@ -1,4 +1,4 @@
-package com.swmansion.gesture handler.react;
+package com.swmansion.gesturehandler.react;
 
 import android.content.Context;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.swmansion.gesture handler.react;
+package com.swmansion.gesturehandler.react;
 
 import android.os.SystemClock;
 import android.util.Log;
@@ -11,8 +11,8 @@ import com.facebook.react.bridge.ReactContext;
 import com.facebook.react.bridge.UiThreadUtil;
 import com.facebook.react.common.ReactConstants;
 import com.facebook.react.views.modal.RNGHModalUtils;
-import com.swmansion.gesture handler.GestureHandler;
-import com.swmansion.gesture handler.GestureHandlerOrchestrator;
+import com.swmansion.gesturehandler.GestureHandler;
+import com.swmansion.gesturehandler.GestureHandlerOrchestrator;
 
 public class RNGestureHandlerRootHelper {
 

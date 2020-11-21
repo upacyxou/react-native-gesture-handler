@@ -1,4 +1,4 @@
-package com.swmansion.gesture handler.react;
+package com.swmansion.gesturehandler.react;
 
 import android.content.Context;
 import android.view.MotionEvent;
@@ -20,15 +20,15 @@ import com.facebook.react.uimanager.PixelUtil;
 import com.facebook.react.uimanager.UIBlock;
 import com.facebook.react.uimanager.UIManagerModule;
 import com.facebook.react.uimanager.events.EventDispatcher;
-import com.swmansion.gesture handler.FlingGestureHandler;
-import com.swmansion.gesture handler.GestureHandler;
-import com.swmansion.gesture handler.LongPressGestureHandler;
-import com.swmansion.gesture handler.NativeViewGestureHandler;
-import com.swmansion.gesture handler.OnTouchEventListener;
-import com.swmansion.gesture handler.PanGestureHandler;
-import com.swmansion.gesture handler.PinchGestureHandler;
-import com.swmansion.gesture handler.RotationGestureHandler;
-import com.swmansion.gesture handler.TapGestureHandler;
+import com.swmansion.gesturehandler.FlingGestureHandler;
+import com.swmansion.gesturehandler.GestureHandler;
+import com.swmansion.gesturehandler.LongPressGestureHandler;
+import com.swmansion.gesturehandler.NativeViewGestureHandler;
+import com.swmansion.gesturehandler.OnTouchEventListener;
+import com.swmansion.gesturehandler.PanGestureHandler;
+import com.swmansion.gesturehandler.PinchGestureHandler;
+import com.swmansion.gesturehandler.RotationGestureHandler;
+import com.swmansion.gesturehandler.TapGestureHandler;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -36,7 +36,7 @@ import java.util.Map;
 
 import androidx.annotation.Nullable;
 
-import static com.swmansion.gesture handler.GestureHandler.HIT_SLOP_NONE;
+import static com.swmansion.gesturehandler.GestureHandler.HIT_SLOP_NONE;
 
 @ReactModule(name=RNGestureHandlerModule.MODULE_NAME)
 public class RNGestureHandlerModule extends ReactContextBaseJavaModule {

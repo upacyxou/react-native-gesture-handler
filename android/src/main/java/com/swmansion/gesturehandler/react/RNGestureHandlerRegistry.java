@@ -1,11 +1,11 @@
-package com.swmansion.gesture handler.react;
+package com.swmansion.gesturehandler.react;
 
 import android.util.SparseArray;
 import android.view.View;
 
 import com.facebook.react.bridge.UiThreadUtil;
-import com.swmansion.gesture handler.GestureHandler;
-import com.swmansion.gesture handler.GestureHandlerRegistry;
+import com.swmansion.gesturehandler.GestureHandler;
+import com.swmansion.gesturehandler.GestureHandlerRegistry;
 
 import java.util.ArrayList;
 
